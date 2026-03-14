@@ -6,7 +6,7 @@ Tenho interesse em desenvolvimento de software, aplicações web/mobile e desenv
 
 Possuo experiência acadêmica com **`Python`**, **`Java`**, **`C`** e **`SQL`**, além de projetos envolvendo processamento de imagens, desenvolvimento Android e prototipação UX/UI.
 
-Ferramentas que gosto de usar: **`Git / GitHub`**<sup>~~obviokk~~</sup> • **`Visual Studio Code`** • **`Figma`** • **`Android Studio`** • **`GameMaker`** • **`Godot`**<sup>❤️</sup>
+Ferramentas que gosto de usar: **`Git / GitHub`**<sup>~~obviokk~~</sup> • **`Visual Studio Code`** • **`Figma`** • **`Android Studio`** • **`GameMaker`** • **`Godot`**<sup>❤️</sup> • **`Canva`**
 
 Dumativa me contrata 😭🙏
 <!--
