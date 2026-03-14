@@ -8,7 +8,7 @@ Possuo experiência acadêmica com **`Python`**, **`Java`**, **`C`** e **`SQL`**
 
 Ferramentas que gosto de usar: **`Git / GitHub`**<sup>~~obviokk~~</sup> • **`Visual Studio Code`** • **`Figma`** • **`Android Studio`** • **`GameMaker`** • **`Godot`**<sup>❤️</sup> • **`Canva`**
 
-Dumativa me contrata 😭🙏 a
+Dumativa me contrata 😭🙏
 <!--
 **TharsoTG4/TharsoTG4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
