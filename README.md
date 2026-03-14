@@ -2,10 +2,10 @@
 
 Sou Tharso, estudante de Ciência da Computação na FACAPE
 
-Tenho interesse em desenvolvimento de software, aplicações web/mobile e desenvolvimento de jogos. <sup>Meu sonho é ser `GameDev` 👉👈</sup>\
-Possuo experiência acadêmica com `Python`, `Java`, `C` e `SQL`, além de projetos envolvendo processamento de imagens, desenvolvimento Android e prototipação UX/UI.
+Tenho interesse em desenvolvimento de software, aplicações web/mobile e desenvolvimento de jogos. <sup>Meu sonho é ser **`GameDev`** 👉👈</sup>\
+Possuo experiência acadêmica com **`Python`**, **`Java`**, **`C`** e **`SQL`**, além de projetos envolvendo processamento de imagens, desenvolvimento Android e prototipação UX/UI.
 
-Ferramentas que gosto de usar: `Git / GitHub`<sup>~~obviokk~~</sup> • `Visual Studio Code` • `Figma` • `Android Studio` • `GameMaker` • `Godot`<sup>❤️</sup>
+Ferramentas que gosto de usar: **`Git / GitHub`**<sup>~~obviokk~~</sup> • **`Visual Studio Code`** • **`Figma`** • **`Android Studio`** • **`GameMaker`** • **`Godot`**<sup>❤️</sup>
 
 Dumativa me contrata 😭🙏
 <!--
