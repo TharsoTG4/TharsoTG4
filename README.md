@@ -1,4 +1,11 @@
-## Hi there 👋
+### Salve 😎🤚
+
+Sou Tharso, estudante de Ciência da Computação na FACAPE
+
+Tenho interesse em desenvolvimento de software, aplicações web/mobile e desenvolvimento de jogos. <sup>Meu sonho é ser `GameDev` 👉👈</sup>
+
+Possuo experiência acadêmica com `Python`, `Java`, `C` e `SQL`, além de projetos envolvendo processamento de imagens, desenvolvimento Android e prototipação UX/UI.
+
 
 <!--
 **TharsoTG4/TharsoTG4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
